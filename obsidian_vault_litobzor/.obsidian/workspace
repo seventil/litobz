@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "f5405a99a9d16e25",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cbd869b27256815",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "9. Old/9.68.chvanov.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eac3c3c280e4f7e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e61d75311d2406e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95df7184cfaa5cd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "259d67a5f134649e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334
+  },
+  "right": {
+    "id": "7800a511cabfeb29",
+    "type": "split",
+    "children": [
+      {
+        "id": "64b0ab7026ff933c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e9d6fc73baa193e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9. Old/9.68.chvanov.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5cbd869b27256815",
+  "lastOpenFiles": [
+    "9. Old/9.68.chvanov.md",
+    "9. Old/9.67.p.98-99.md",
+    "9. Old/9.66.stresses.md",
+    "9. Old/9.65.Adhesion methods.md",
+    "9. Old/9.64.Trofimov_physics.md",
+    "9. Old/9.63.Karbid_kremniya_kniga.md",
+    "9. Old/9.62.Russian NDT 10.2015 (1).md",
+    "9. Old/9.61.PRIZM.md",
+    "9. Old/9.60.tn503.md",
+    "9. Old/9.59.TC-SSU-02282003125442.md"
+  ]
+}
