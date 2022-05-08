@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5cbd869b27256815",
+        "id": "f9103af6887f9def",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9. Old/9.68.chvanov.md",
+            "file": "7. Plastic deformations/7.31. landgraf2000.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Связь_пластических_деформаций_и_магнитных_свойств",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334
+    "width": 282
   },
   "right": {
     "id": "7800a511cabfeb29",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Old/9.68.chvanov.md",
+                "file": "7. Plastic deformations/7.31. landgraf2000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cbd869b27256815",
+  "active": "f9103af6887f9def",
   "lastOpenFiles": [
+    "7. Plastic deformations/7.31. landgraf2000.md",
     "9. Old/9.68.chvanov.md",
-    "9. Old/9.67.p.98-99.md",
     "9. Old/9.66.stresses.md",
+    "1. Internal stress/1.42. stresses.md",
     "9. Old/9.65.Adhesion methods.md",
-    "9. Old/9.64.Trofimov_physics.md",
     "9. Old/9.63.Karbid_kremniya_kniga.md",
-    "9. Old/9.62.Russian NDT 10.2015 (1).md",
-    "9. Old/9.61.PRIZM.md",
-    "9. Old/9.60.tn503.md",
-    "9. Old/9.59.TC-SSU-02282003125442.md"
+    "9. Old/9.57.Ryabchikov&Lille.md",
+    "6. IS eval using NDT/6.19. Ryabchikov&Lille.md",
+    "9. Old/9.56.rsl01003170306.md",
+    "9. Old/9.55.rsl01003159824.md"
   ]
 }
