@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "36be4ada4ef18f24",
+        "id": "44d8769618628932",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "refere",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "36be4ada4ef18f24",
+  "active": "44d8769618628932",
   "lastOpenFiles": [
-    "8. Unsorted/8.64. masterov_berkovsky_theory.md",
-    "8. Unsorted/8.63. poluhin_plastich_deform.md",
-    "8. Unsorted/8.62. akulov_dislokatsiyi_plastichnost.md",
-    "8. Unsorted/8.61. rudnitsky_gnutenko_2014.md",
-    "8. Unsorted/8.60. iso_5725.md",
-    "8. Unsorted/8.59. gost_r_57172-2016.md",
-    "8. Unsorted/8.58. gost_r_52731_2007.md",
-    "8. Unsorted/8.57. Swygenhoven_S_Bollhalder_Schild_2006.md",
-    "6. IS eval using NDT/6.0. Standard EN 15305-2008 Residual Stress analysis by X-ray Diffraction.md",
-    "9. Old/9.32.2010720112550517.md"
+    "1. Internal stress/1.1. 10.1.1.1002.73.md",
+    "10. FYI/9.49.NickelElectroplating.md",
+    "700 Пластические деформации.md",
+    "10. FYI/9.48.NickelAlloysforElectronics_11002_.md",
+    "10. FYI/9.38.grab_gl4.md",
+    "10. FYI/9.12.732.md",
+    "10. FYI/9.11.200.md",
+    "10. FYI/9.6. 9. Stress.md",
+    "10. FYI/8.37. Magnetic ponderomotive.md",
+    "10. FYI/8.36. diffusion.md"
   ]
 }
