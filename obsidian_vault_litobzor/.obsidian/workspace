@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "44d8769618628932",
+        "id": "c81a472ae3b4ab8a",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -37,7 +37,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347
+    "width": 364
   },
   "right": {
     "id": "7800a511cabfeb29",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44d8769618628932",
+  "active": "c81a472ae3b4ab8a",
   "lastOpenFiles": [
-    "1. Internal stress/1.1. 10.1.1.1002.73.md",
-    "10. FYI/9.49.NickelElectroplating.md",
-    "700 Пластические деформации.md",
-    "10. FYI/9.48.NickelAlloysforElectronics_11002_.md",
-    "10. FYI/9.38.grab_gl4.md",
-    "10. FYI/9.12.732.md",
-    "10. FYI/9.11.200.md",
-    "10. FYI/9.6. 9. Stress.md",
-    "10. FYI/8.37. Magnetic ponderomotive.md",
-    "10. FYI/8.36. diffusion.md"
+    "1020 Природа напряжений.md",
+    "1010 Введение в напряжения.md",
+    "2500 Адгезия.md",
+    "7121 Связь пластической деформации и напряжений.md",
+    "2720 Связь дефектов решетки и деформации.md",
+    "9. Old/9.24.15223 Trophimov_physics.md",
+    "README.md",
+    "6040 Метод нейтронная дифракция.md",
+    "7810 Пластика в никеле.md",
+    "7.37. publication_12_24290_1049.md"
   ]
 }
