@@ -32,7 +32,7 @@ def write_bib_file(path, biblios):
 
 def main():
     root = os.path.join(os.path.curdir, 'obsidian_vault_litobzor')
-    file_path = '../my_thesis_in_latex/biblio/external.bib'
+    file_path = '../my_thesis_in_latex/biblio/external1.bib'
     dirs = get_dirs_and_files(root)
     dirs.pop('.\\obsidian_vault_litobzor')
     dirs.pop('.\\obsidian_vault_litobzor\\.obsidian')

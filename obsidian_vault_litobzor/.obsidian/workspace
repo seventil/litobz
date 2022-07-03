@@ -7,8 +7,11 @@
         "id": "c81a472ae3b4ab8a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Litobz Template/Litobz Template.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364
+    "width": 526
   },
   "right": {
     "id": "7800a511cabfeb29",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Litobz Template/Litobz Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "c81a472ae3b4ab8a",
   "lastOpenFiles": [
-    "1020 Природа напряжений.md",
+    "Litobz Template/Litobz Template.md",
     "1010 Введение в напряжения.md",
-    "2500 Адгезия.md",
-    "7121 Связь пластической деформации и напряжений.md",
-    "2720 Связь дефектов решетки и деформации.md",
-    "9. Old/9.24.15223 Trophimov_physics.md",
-    "README.md",
-    "6040 Метод нейтронная дифракция.md",
+    "1020 Природа напряжений.md",
+    "Litobz Template/1.1.1 Введение в напряжения.md",
     "7810 Пластика в никеле.md",
-    "7.37. publication_12_24290_1049.md"
+    "2010 Влияние дефектов на напряжения.md",
+    "2000 Дефекты решетки.md",
+    "2. Lattice defects/2.1. 60_MF201937.md",
+    "2. Lattice defects/2.0. 49_2315.md",
+    "1. Internal stress/1.45. kovenskiy_i_m_povetkin_v_v_ostatochnye_napryazheniya_v_gal_v.md"
   ]
 }
