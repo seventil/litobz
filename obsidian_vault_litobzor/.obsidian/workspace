@@ -9,8 +9,21 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Litobz Template/Litobz Template.md",
-            "mode": "source"
+            "file": "Litobz Template/1.1.1 Применение гальванического никеля.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "9c5e81d01b3a96b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Litobz Template/1.1.1 Применение гальванического никеля.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "нюанс контроля магнитным методом тонких пленок",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Litobz Template/Litobz Template.md",
+                "file": "Litobz Template/1.1.1 Применение гальванического никеля.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c81a472ae3b4ab8a",
+  "active": "9c5e81d01b3a96b6",
   "lastOpenFiles": [
+    "Litobz Template/2.+ Тело диссера.md",
+    "Litobz Template/1.1.1 Применение гальванического никеля.md",
+    "Litobz Template/1.4.3 Методы магнитные.md",
+    "9. Old/9.25.278576A.md",
     "Litobz Template/Litobz Template.md",
-    "1010 Введение в напряжения.md",
-    "1020 Природа напряжений.md",
-    "Litobz Template/1.1.1 Введение в напряжения.md",
-    "7810 Пластика в никеле.md",
-    "2010 Влияние дефектов на напряжения.md",
-    "2000 Дефекты решетки.md",
-    "2. Lattice defects/2.1. 60_MF201937.md",
-    "2. Lattice defects/2.0. 49_2315.md",
-    "1. Internal stress/1.45. kovenskiy_i_m_povetkin_v_v_ostatochnye_napryazheniya_v_gal_v.md"
+    "10. FYI/10.1. Gnutenko_disser.md",
+    "10. FYI/8.37. Magnetic ponderomotive.md",
+    "10. FYI/6.22. tn503.md",
+    "10. FYI/6.17. rsintro.md",
+    "10. FYI/6.13. hd1000g_Prism_standard.md"
   ]
 }

@@ -12,5 +12,6 @@
     "open-with-default-app": true,
     "file-recovery": true
   },
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "livePreview": false
 }
